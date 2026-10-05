@@ -1,0 +1,7 @@
+node_modules/
+mv/main7s.js
+mv/frames/
+mv/out/
+build/
+mv/assets/fonts/*.ttf
+.DS_Store

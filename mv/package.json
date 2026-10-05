@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-mv",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "^0.169.0",
+    "puppeteer": "^23.0.0"
+  }
+}
